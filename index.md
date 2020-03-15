@@ -11,7 +11,7 @@
     1. <a href="https://docs.google.com/spreadsheets/d/196dpdOQBLRD3QeWGQGqGXTiU1Ks_OpdkjbuOl9tiX4o/edit#gid=0">Projects Summary</a><br><br>
     2. <a href="https://www.linkedin.com/in/praveenkumarmahto">LinkedIn Profile</a> <br><br>
     3. <a href="https://github.com/praveenkumarmahto?tab=repositories">GIT</a><br><br>
-    4. <a href="https://drive.google.com/file/d/1ATnpBJGE1Lz3SXb5uW95ncbUl_2vlpIM/view?usp=sharing">Resume</a>
+    4. <a href="https://drive.google.com/file/d/17vGlV_nOd2jdD0qdjZr1D4oB53GzIKam/view?usp=sharing">Resume</a>
     <br><br>
   </div>
 </div>
