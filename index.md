@@ -8,10 +8,10 @@
   </div>
   <div class="column" style="width:50%">
      <br>
-    1. <a href="www.google.com">Projects Summary</a><br><br>
+    1. <a href="https://docs.google.com/spreadsheets/d/196dpdOQBLRD3QeWGQGqGXTiU1Ks_OpdkjbuOl9tiX4o/edit#gid=0">Projects Summary</a><br><br>
     2. <a href="https://www.linkedin.com/in/praveenkumarmahto">LinkedIn Profile</a> <br><br>
     3. <a href="https://github.com/praveenkumarmahto?tab=repositories">GIT</a><br><br>
-    4. <a href="www.google.com">Resume</a>
+    4. <a href="https://drive.google.com/open?id=1TgwM23Q8JffTLE_9SJVXjQFHTs2P19ig">Resume</a>
     <br><br>
   </div>
 </div>
