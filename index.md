@@ -1,17 +1,16 @@
-<div class="row" style="height:500px">
-  <div class="column" style="width:50%">
-    <img src="/images/my_pic.jpg" alt="Avatar" style="width:300px"><br>
-    <br><p>
-    Mobile: +91 7264068137<br>
-    Email:  praveenkumarmahto@gmail.com
-    </p>
-  </div>
-  <div class="column" style="width:50%">
-     <br>
-    1. <a href="https://docs.google.com/spreadsheets/d/196dpdOQBLRD3QeWGQGqGXTiU1Ks_OpdkjbuOl9tiX4o/edit#gid=0">Projects Summary</a><br><br>
-    2. <a href="https://www.linkedin.com/in/praveenkumarmahto">LinkedIn Profile</a> <br><br>
-    3. <a href="https://github.com/praveenkumarmahto?tab=repositories">GIT</a><br><br>
-    4. <a href="https://drive.google.com/file/d/17vGlV_nOd2jdD0qdjZr1D4oB53GzIKam/view?usp=sharing">Resume</a>
-    <br><br>
-  </div>
+<div style="height:500px;text-align:center;">
+  <center>
+    <img src="/images/my_pic.jpg" style="width:250px;border-radius:10%;border:2px solid #000;">
+  </center>
+  <br><br>
+  <p>Mobile: +91 7264068137</p>
+  <p>Email: praveenkumarmahto@gmail.com</p>    
+  <a href="http://bit.ly/3pZOJjW" target="_blank">Projects Summary</a><br><br>
+  <a href="https://www.linkedin.com/in/praveenkumarmahto" target="_blank">LinkedIn Profile<a>
+  <br><br>
+  <a href="https://github.com/praveenkumarmahto?tab=repositories" target="_blank">GitHub</a><br><br>
+  <a href="http://bit.ly/3tAdXHS" target="_blank">Resume</a><br><br>
+  <p>I am a software engineer working in India's leading Agri-tech m-commerce company. </p>
+  <p>Worked on Golang, Python, Microservices, Django, Flask, Haskel, Mysql, MongoDB, Redis, Kafka, Docker, Kubernetes, Reactjs, etc.</p>  
+  <p>Eager to take new challenges | Good analytical skills with Positive Approach | Team player.</p>
 </div>
