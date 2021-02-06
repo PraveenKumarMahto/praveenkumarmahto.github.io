@@ -12,4 +12,4 @@
   <a href="http://bit.ly/3tAdXHS" target="_blank">Resume</a><br><br>
   <p>I am a software engineer working in India's leading Agri-tech m-commerce company. </p>
   <p>Worked on Golang, Python, Microservices, Django, Flask, Haskel, Mysql, MongoDB, Redis, Kafka, Docker, Kubernetes, Reactjs, etc.</p>  
-  <p>Eager to take new challenges | Good analytical skills with Positive Approach | Team player.</p>
+  <p>Eager to take new challenges | Good analytical skills with Positive Approach | Team player.</p><br><br>
